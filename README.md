@@ -5,6 +5,7 @@
 * I am 20 year old programmer from Ufa :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * I learn Computer science in [USATU](https://www.ugatu.su/en/) (Ufa's State Aviation Technical University). :office:
+* My Java expirience is 3 years :watch:
 
 -----------
 <b>Core technologies:</b>
