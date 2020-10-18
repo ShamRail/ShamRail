@@ -1,6 +1,10 @@
-### Hi! 👋
+### Hi! 👋 My name is Rail. Welcome! :v:
 
-My name is Rail. I am 20 year old programmer from Ufa. I learn Java at [Job4j](https://job4j.ru/) and Computer science in [USATU](https://www.ugatu.su/en/) (Ufa's State Aviation Technical University).
+#### About me
+
+* I am 20 year old programmer from Ufa :computer:
+* I learn Java at [Job4j](https://job4j.ru/) :coffee:
+* I learn Computer science in [USATU](https://www.ugatu.su/en/) (Ufa's State Aviation Technical University). :office:
 
 -----------
 <b>Core technologies:</b>
@@ -15,7 +19,7 @@ My name is Rail. I am 20 year old programmer from Ufa. I learn Java at [Job4j](h
 ##### Lessons of:
 1. [Java SE](https://github.com/ShamRail/job4j)
 2. [SQL & JDBC, GC and OOD](https://github.com/ShamRail/job4j_junior)
-3. [Multithreading](https://github.com/ShamRail/job4j_middle)
+3. [Multithreading in Java](https://github.com/ShamRail/job4j_middle)
 ##### Projects:
 1. [Console CRUD app using JDBC](https://github.com/ShamRail/job4j_tracker)
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/ShamRail/job4j_grabber)
@@ -30,6 +34,9 @@ My name is Rail. I am 20 year old programmer from Ufa. I learn Java at [Job4j](h
 
 #### Android apps
 1. [Rotation sensor visualizer](https://github.com/ShamRail/sersors-demo)
+
+![Rail's github stats](https://github-readme-stats.vercel.app/api?username=ShamRail&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamRail&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
 <!--
 **ShamRail/ShamRail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
