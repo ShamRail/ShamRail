@@ -35,6 +35,7 @@
 
 #### Android apps
 1. [Rotation sensor visualizer](https://github.com/ShamRail/sersors-demo)
+2. [GPS Tracker](https://github.com/ShamRail/gpstracker)
 
 ![Rail's github stats](https://github-readme-stats.vercel.app/api?username=ShamRail&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamRail&layout=compact)](https://github.com/ShamRail/github-readme-stats)
