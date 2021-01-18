@@ -32,6 +32,7 @@
 8. [Forum using Spring](https://github.com/ShamRail/job4j_forum)
 9. [REST API for TodoList using Spring](https://github.com/ShamRail/todo)
 10. [Publications & Articles searcher using Spring](https://github.com/ShamRail/scrapping-app)
+11. [URL Shortcut service using Spring](https://github.com/ShamRail/job4j_url_shortcut)
 
 #### Android apps
 1. [Rotation sensor visualizer](https://github.com/ShamRail/sersors-demo)
